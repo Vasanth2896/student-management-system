@@ -1,0 +1,11 @@
+# Ignore IDE project files
+*.cproject
+*.project
+.settings/
+
+# Ignore the Debug directory and its contents
+Debug/
+
+# Ignore object files and executables
+*.o
+*.exe
